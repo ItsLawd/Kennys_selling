@@ -27,8 +27,7 @@ Make sure the following resources are installed and working:
 
 1. **Download or clone** this repository into your `resources` folder:
 2. **Add the following line to your `server.cfg`:*ensure kennys_selling*
-
-3. 3. **You're done!** The script will be active on your next server restart.
+3.  **You're done!** The script will be active on your next server restart.
 
 ---
 
@@ -52,11 +51,6 @@ Walk up to a local, and press **E** to initiate the sale. NPCs will react accord
 ## 🙌 Credits
 
 Made with 💙 by **Kenny**
-
-Dependancies:
-- `qb-core`
-- `ox_inventory`
-- `ox_lib`
 
 ---
 
