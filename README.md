@@ -26,7 +26,7 @@ Make sure the following resources are installed and working:
 ## ⚙️ Installation
 
 1. **Download or clone** this repository into your `resources` folder:
-2. **Add the following line to your `server.cfg`:*ensure kennys_selling*
+2. **Add the following line to your** `server.cfg`:*ensure kennys_selling*
 3.  **You're done!** The script will be active on your next server restart.
 
 ---
