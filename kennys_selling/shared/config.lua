@@ -3,7 +3,7 @@ Config = {}
 Config.SellKey = 30 -- E
 
 Config.Drugs = {
-    item1 = { -- change "item1" to the item for | Example down below
+    item1 = { -- change "item1" to the item you want to sell to the NPCS | Example down below
         label = '', -- Item name
         price = { min = 50, max = 200 }, -- Min & Max the user can be paid for
         rewardItem = 'black_money', -- the item they would recive for selling the item | pre set to black_money
@@ -24,5 +24,5 @@ Config.SellDuration = 3000   -- 3 seconds in ms, this is the bar for selling.
 
 --[NOTE]--
 
--- Please, not there may be some bugs with this script, i am going to update this with an enable option for having the bar or circle or none.
--- I am going to be adding more features to this in due time, feel free to edit and change this. Please issue them as pulls or create an issue for me to add to this
+-- Please note there may be some bugs with this script. I am going to update this with an enable option for having the bar or circle or none.
+-- I am going to be adding more features to this in due time, so feel free to edit and change this. Please issue them as pulls or create an issue for me to add to this
