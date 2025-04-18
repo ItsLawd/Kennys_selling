@@ -3,18 +3,18 @@ Config = {}
 Config.SellKey = 30 -- E
 
 Config.Drugs = {
-    item1 = { -- change "item1" to the item you want to sell to the NPCS | Example down below
-        label = '', -- Item name
+    item1 = {                            -- change "item1" to the item you want to sell to the NPCS | Example down below
+        label = '',                      -- Item name
         price = { min = 50, max = 200 }, -- Min & Max the user can be paid for
-        rewardItem = 'black_money', -- the item they would recive for selling the item | pre set to black_money
-        bags = { min = 1, max = 3 } -- Optional: specify the number of bags to sell
+        rewardItem = 'black_money',      -- the item they would recive for selling the item | pre set to black_money
+        bags = { min = 1, max = 3 }      -- Optional: specify the number of bags to sell
     },
     --[EXAMPLE DRUG]--
     meth = {
         label = 'meth',
         price = { min = 250, max = 450 },
         rewardItem = 'black_money',
-        bags = { min = 1, max = 3 }
+        bags = { min = 2, max = 4 }
     }
 }
 
