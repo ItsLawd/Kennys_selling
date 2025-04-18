@@ -26,3 +26,4 @@ Config.SellDuration = 3000   -- 3 seconds in ms, this is the bar for selling.
 
 -- Please note there may be some bugs with this script. I am going to update this with an enable option for having the bar or circle or none.
 -- I am going to be adding more features to this in due time, so feel free to edit and change this. Please issue them as pulls or create an issue for me to add to this
+-- Hey xoxo
